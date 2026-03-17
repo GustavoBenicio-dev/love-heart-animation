@@ -1,7 +1,7 @@
 # ❤️ Love Heart Animation
 
-## 🔗 Demo
-(link do GitHub Pages)
+## 🔗 Ver projeto online
+https://gustavobenicio-dev.github.io/love-heart-animation/
 
 Uma animação feita com JavaScript que cria um coração usando a frase "I love you".
 
